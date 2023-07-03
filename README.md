@@ -1,4 +1,4 @@
-### Hej, jag heter Igor, jag lar svenska. Tycker om spela Danganrompa 👋
+
 
 <!--
 **lloopy123123543/lloopy123123543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
